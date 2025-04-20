@@ -4,7 +4,7 @@ The Finance Dashboard is designed to empower users with data-driven insights tha
 ## Dataset Used
 -<a href="https://github.com/sritamkumar123/Finance-Dashboard-Data-Driven-Insights-for-Smarter-Money-Management/blob/main/personal_finanace_dashboard_updated.xlsx">Dataset</a>
 
-## Questions (KPIs)
+## Inslights
 * Expense Breakdown – Get an accurate view of spending categories over time 
 * Total Spending Overview– Track spending across different accounts for better financial insights 
 * Monthly Expense Trends– Analyze spending patterns month by month for effective budgeting 
