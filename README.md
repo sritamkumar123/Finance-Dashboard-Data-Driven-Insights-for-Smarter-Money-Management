@@ -5,15 +5,13 @@ The Finance Dashboard is designed to empower users with data-driven insights tha
 -<a href="https://github.com/sritamkumar123/Finance-Dashboard-Data-Driven-Insights-for-Smarter-Money-Management/blob/main/personal_finanace_dashboard_updated.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-* Monthwise Total Sales and Profit(Based on the values)
-* Daywise Total Sales
-* Payment modewise sale percentage
-* Yearwise sales percentage
-* TOP 5 selling products
-* Total Sale Value
-* Total Sale Quantity
-* Top Selling Product
-* Profit %
+* Expense Breakdown – Get an accurate view of spending categories over time 
+* Total Spending Overview– Track spending across different accounts for better financial insights 
+* Monthly Expense Trends– Analyze spending patterns month by month for effective budgeting 
+* Category-wise Expense Visualization – Understand spending behavior with interactive visualizations like a Treemap
+* Net Savings Tracker – Monitor monthly savings to plan ahead and achieve financial goals
+* Financial Flow Analysis – View overall credit and debit trends through dynamic financial charts like the Waterfall Chart
+* Top Spending Insights – Identify key spending categories to optimize expenses and improve financial decision-making 
 
 * Dashboard Interaction: <a href="https://github.com/sritamkumar123/Sales_Dashboard/blob/main/sales_dasboard_screenshot.png">Dashboard</a>
 
