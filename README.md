@@ -13,7 +13,7 @@ The Finance Dashboard is designed to empower users with data-driven insights tha
 * Financial Flow Analysis – View overall credit and debit trends through dynamic financial charts like the Waterfall Chart
 * Top Spending Insights – Identify key spending categories to optimize expenses and improve financial decision-making 
 
-* Dashboard Interaction: <a hrefhttps://github.com/sritamkumar123/Finance-Dashboard-Data-Driven-Insights-for-Smarter-Money-Management/blob/main/finance_dashboard.png">Dashboard</a>
+* Dashboard Interaction: <a href="https://github.com/sritamkumar123/Finance-Dashboard-Data-Driven-Insights-for-Smarter-Money-Management/blob/main/finance_dashboard.png">Dashboard</a>
 
 ## Process & Techniques
 * Verify data for any missing values and anomalies, and sort out the same
@@ -32,4 +32,5 @@ The Finance Dashboard is designed to empower users with data-driven insights tha
 * Merge all pivot tables into one dashboard and apply slicers to make dynamic.
 
 ## Dashboard
-![Screenshot 2025-04-13 182353](https://github.com/user-attachments/assets/a35183b0-0502-405d-997f-05bbddb20740)
+![finance_dashboard](https://github.com/user-attachments/assets/e831eb4a-10a7-4255-9f32-845f86e59eff)
+
